@@ -18,6 +18,7 @@ namespace WebAppGitDemo.Tests.Controllers
             // Arrange
             var controller = new HomeController();
 
+
             // Act
             var result = controller.Index();
 
